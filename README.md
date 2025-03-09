@@ -1,19 +1,26 @@
-🚀 Luke Zhu
-📍 Business Major @ University of Michigan '26
-💡 Exploring AI/ML & Coding for Fun
-📈 Co-founder | Startup Enthusiast
-🔗 LinkedIn
+# 👋 Hi, I'm Luke!
 
-👋 About Me
-Hey there! I'm Luke, a business student at the University of Michigan (Class of 2026) with a non-technical background who picked up coding for fun. While my academic focus is in business, I’m fascinated by AI/ML and its real-world applications, especially in finance, startups, and decision-making systems.
+## 📌 About Me
+- 📚 Business Major @ **University of Michigan '26**
+- 🛠️ Co-founder | Exploring AI/ML & Startups
+- 💡 Passionate about **AI, finance, and coding for fun**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/zhuluke/) | 🌐 [Website](https://photricity.com/flw/ajax/)
 
-Currently, I'm co-founding a startup, where I merge my business expertise with my growing technical skill set. Always open to collaborating on AI/ML projects, discussing startups, or exploring new ideas!
+## 🚀 Projects
+- 💰 **FinTech Startup:** Building AI-driven investment tools
+- 🤖 **AI/ML Experiments:** Exploring sentiment analysis & finance applications
+- 📊 **Past Work:** Private credit, real estate analytics, algorithmic trading
 
-🛠️ Tech Stack & Interests
-💻 Languages: Python, JavaScript (React, Node.js), SQL
-📊 AI/ML Tools: TensorFlow, OpenAI API, FinBERT
-🚀 Startup Skills: Product Strategy, Market Analysis, Pitching
-🔍 Currently Learning: Full-stack Dev, Large Language Models (LLMs), Algorithmic Trading
+## 🛠️ Skills  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</p>
+
+## 📬 Connect with Me
+📧 Reach out via **[LinkedIn](https://www.linkedin.com/in/zhuluke/)** or open an issue here!
 
 <!---
 zhuluke1/zhuluke1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
