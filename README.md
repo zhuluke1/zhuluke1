@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Luke!
+# 👋 Hi, I'm Luke! 
+
+<br>
 
 ## 📌 About Me
 - 📚 Business Major @ **University of Michigan '26**
@@ -6,10 +8,14 @@
 - 💡 Passionate about **AI, finance, and coding for fun**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/zhuluke/) | 🌐 [Website](https://photricity.com/flw/ajax/)
 
+<br>
+
 ## 🚀 Projects
 - 💰 **FinTech Startup:** Building AI-driven investment tools
 - 🤖 **AI/ML Experiments:** Exploring sentiment analysis & finance applications
 - 📊 **Past Work:** Private credit, real estate analytics, algorithmic trading
+
+<br>
 
 ## 🛠️ Skills  
 <p align="left">
@@ -18,6 +24,8 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
+
+<br>
 
 ## 📬 Connect with Me
 📧 Reach out via **[LinkedIn](https://www.linkedin.com/in/zhuluke/)** or open an issue here!
