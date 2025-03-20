@@ -5,14 +5,14 @@
 ## 📌 About Me
 - 📚 Business Major @ **University of Michigan '26**
 - 🛠️ Co-founder | Exploring AI/ML & Startups
-- 💡 Passionate about **AI, finance, and coding for fun**
+- 💡 Passionate about chess, poker, and investing
 - 🔗 [LinkedIn](https://www.linkedin.com/in/zhuluke/) | 🌐 [Website](https://photricity.com/flw/ajax/)
 
 <br>
 
 ## 🚀 Projects
 - 💰 **FinTech Startup:** Building AI-driven investment tools
-- 🤖 **AI/ML Experiments:** Exploring sentiment analysis & finance applications
+- 🤖 **AI/ML Experiments:** Tax ML, S&P 500 Sentiment Analysis
 - 📊 **Past Work:** Private credit, real estate analytics, algorithmic trading
 
 <br>
