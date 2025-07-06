@@ -5,7 +5,7 @@
 ## 📌 About Me
 - 📚 Business Major @ **University of Michigan '26**
 - 🛠️ Co-founder | Exploring AI/ML & Startups
-- 💡 Passionate about chess, poker, and investing
+- 💡 Passionate about chess, poker, and finance
 - 🔗 [LinkedIn](https://www.linkedin.com/in/zhuluke/) | 🌐 [Website](https://lukezhu.framer.website)
 
 <br>
